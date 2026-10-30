@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Lisa Dobinger 👋</h1>
 
-<!--
-**lisadobinger/lisadobinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Predoctoral Fellow in Translational Immunology</strong><br/>
+  Dermatology Department · CeMM Research Center for Molecular Medicine · Medical University of Vienna
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lisadobinger/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-lisadobinger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
