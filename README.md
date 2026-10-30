@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/lisadobinger/](https://at.linkedin.com/in/lisa-dobinger-7238813a8)" target="_blank">
+  <a href="https://at.linkedin.com/in/lisa-dobinger-7238813a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-lisadobinger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
